@@ -31,6 +31,9 @@ Installation/Setup
 
 Changelog
 ---------
+Version 1.1
+-Clarified Installation/Setup
+
 Version 1.0
 -Added footer with copyright information. Great Films logo now links to the top of the page.
 -Changed the color scheme and name of program and website
