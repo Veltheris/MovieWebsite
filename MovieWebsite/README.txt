@@ -21,8 +21,11 @@ Installation/Setup
  -Place the MovieWebsite Folder somewhere on the computer
  -Go into Movies.py within the MovieWebsite Folder
  -Add the movies you wish to display to Movies.py, following the format listed.
- -Once all movies are there, run Movies.py to generate great_films.htm. This will generate inside the MovieWebsite folder. 
-  To generate it elsewhere, go into great_films.py and change the output_file line.
+ -Once all movies are there, run Movies.py.
+   -To run through command line/terminal, navigate to the MovieWebsite folder and run "Python movies.py".
+   -To run on Windows, right click movies.py and select open with Python.exe.
+ -This will generate great_films.htm inside the MovieWebsite folder.
+   -To generate it elsewhere, go into great_films.py and change the output_file line.
  -great_films.htm will open automatically. Congratulations, you now have a website!
  -To view on another device, you will need to host great_films.htm using a web server.
 
